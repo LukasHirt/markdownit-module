@@ -18,7 +18,7 @@ function markdownitModule (moduleOptions) {
 
   // Define module loader for markdownit
   const moduleLoader: ModuleLoader = {
-    loader: '@nuxtjs/markdownit-loader',
+    loader: 'nuxtjs-markdownit-loader',
     options
   }
 
