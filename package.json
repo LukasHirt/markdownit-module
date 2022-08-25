@@ -1,5 +1,5 @@
 {
-  "name": "@nuxtjs/markdownit",
+  "name": "nuxtjs-markdownit",
   "version": "2.0.0",
   "homepage": "nuxt-community/markdownit-module",
   "license": "MIT",
